@@ -1,0 +1,24 @@
+v1.5
+ * Add test-module & extra-doc-files highilight
+
+v1.4
+ * Add benchmark support, thanks to Simon Meier
+
+v1.3
+ * Updated to the last version of cabal
+   Added more highlighting for cabal function, true/false
+   and version number. Also added missing comment highlighting.
+   Cabal known compiler are highlighted too.
+
+V1.2
+ * Added cpp-options which was missing. Feature implemented
+   by GHC, found with a GHC warning, but undocumented. 
+   Whatever...
+
+v1.1:
+ * Fixed operator problems and added ftdetect file
+      (thanks to Sebastian Schwarz)
+
+v1.0:
+ * Cabal syntax in vimball format (thanks to Magnus Therning)
+
